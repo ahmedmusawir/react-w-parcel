@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './static/scss/custom-bootstrap-4.1.3.scss';
+import '../node_modules/font-awesome/css/font-awesome.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
